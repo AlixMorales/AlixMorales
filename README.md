@@ -1,4 +1,5 @@
 Emory University math nerd dabbling in programming.
+
 Currently working on having fun and starting some cool projects 👍
 
 <!---
