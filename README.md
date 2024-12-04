@@ -1,4 +1,4 @@
-Emory University math nerd dabbling in programming.
+Emory University Applied Mathematics and Statistics
 
 Currently working on having fun and starting some cool projects 👍
 
