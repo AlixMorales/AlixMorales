@@ -1,5 +1,7 @@
 Emory University Applied Mathematics and Statistics
 
+Part-time vibe coder
+
 Currently working on having fun and starting some cool projects 👍
 
 <!---
