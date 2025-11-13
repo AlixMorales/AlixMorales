@@ -1,4 +1,4 @@
-Emory University Applied Mathematics and Statistics
+Full-time Emory University Applied Mathematics and Statistics Student
 
 Part-time vibe coder
 
