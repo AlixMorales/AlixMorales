@@ -1,3 +1,5 @@
+<!-- Banner --> <p align="center"> <img src="[https://i.imgur.com/8eY5JkX.gif](https://imgur.com/gallery/sshh-dont-cry-bxkjo0f#/t/pibble)" width="700" /> </p>
+
 Full-time Emory University Applied Mathematics and Statistics Student
 
 Part-time vibe coder
